@@ -1,0 +1,8 @@
+# Ignore Terraform heavy files
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Ignore Mac system files
+.DS_Store
